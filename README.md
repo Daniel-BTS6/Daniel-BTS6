@@ -1,7 +1,24 @@
-## Hi there 👋
+## Hi, I'm Daniel 👋
+
+🚀 Cloud Architect | Automation | AI Agents  
+💡 Building tools that save time and increase revenue  
+
+### 🔧 Tech Stack
+- Python
+- AWS
+- Flask
+- Docker
+
+### 📌 Current Projects
+- AI feedback agent
+- Multizone Architecture
+
+### 📫 Contact
+- Email: Available upon request
+- LinkedIn: linkedin.com/danielbry
 
 <!--
-**Daniel-BTS6/Daniel-BTS6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DBs-art/DBs-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
